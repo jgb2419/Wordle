@@ -1,5 +1,5 @@
 # imports Part 1 of the Wordle assignment
-import Bogart_Jenny_Wordle_Proj as wordle
+import Bogart_Jenny_Wordle_Starting_Word.py as wordle
 import re
 
 """
