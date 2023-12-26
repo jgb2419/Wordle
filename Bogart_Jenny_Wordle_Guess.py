@@ -1,4 +1,4 @@
-# imports Part 1 of the Wordle assignment
+# imports Starting word from Bogart_Jenny_Wordle_Starting_Word.py
 import Bogart_Jenny_Wordle_Starting_Word.py as wordle
 import re
 
